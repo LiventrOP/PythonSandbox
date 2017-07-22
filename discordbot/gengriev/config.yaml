@@ -1,0 +1,5 @@
+token: 'MzM1MTM3NTI5OTExMDUwMjUx.DFTO-g.V-JIQ5mnvtPlgreGQaKVHGROn20'
+
+bot:
+  plugins:
+        - plugins.gengriev
